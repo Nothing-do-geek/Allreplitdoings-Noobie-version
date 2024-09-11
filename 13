@@ -1,0 +1,2 @@
+print('.'.join(f'{x:08b}' for x in [252,67,33,87]))
+print('.'.join(f'{x:08b}' for x in [255,252,0,0]))
