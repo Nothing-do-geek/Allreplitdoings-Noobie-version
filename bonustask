@@ -1,0 +1,6 @@
+#A = [8]*6
+#print(A)
+X = [0]*6
+for k in range(6):
+  X[k] = 2*(k + 1)
+print(X)
